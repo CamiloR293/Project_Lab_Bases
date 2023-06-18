@@ -1,0 +1,334 @@
+D:\GitHub\Streaming\bin\Debug\Streaming.exe.config
+D:\GitHub\Streaming\bin\Debug\Streaming.exe
+D:\GitHub\Streaming\bin\Debug\Streaming.pdb
+D:\GitHub\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+D:\GitHub\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+D:\GitHub\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+D:\GitHub\Streaming\obj\Debug\Streaming.exe
+D:\GitHub\Streaming\obj\Debug\Streaming.pdb
+D:\GitHub\Streaming\obj\Debug\Streaming.Main.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.InicioCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Streaming.exe
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Streaming.pdb
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.Main.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.exe
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.pdb
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Base de datos\Bases II\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Streaming.exe
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Streaming.pdb
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.Main.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.exe
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.pdb
+D:\GitHub\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\GitHub\Streaming\bin\Debug\System.Buffers.dll
+D:\GitHub\Streaming\bin\Debug\System.Memory.dll
+D:\GitHub\Streaming\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+D:\GitHub\Streaming\bin\Debug\System.Text.Json.dll
+D:\GitHub\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHub\Streaming\bin\Debug\System.ValueTuple.dll
+D:\GitHub\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GitHub\Streaming\bin\Debug\System.Buffers.xml
+D:\GitHub\Streaming\bin\Debug\System.Memory.xml
+D:\GitHub\Streaming\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+D:\GitHub\Streaming\bin\Debug\System.Text.Json.xml
+D:\GitHub\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHub\Streaming\bin\Debug\System.ValueTuple.xml
+D:\GitHub\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Streaming.exe
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Streaming.pdb
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Memory.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Memory.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\Source\Repos\Streaming\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.Main.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.exe
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.pdb
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+C:\Users\usuario\Source\Repos\Streaming\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Streaming.exe.config
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Streaming.exe
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Streaming.pdb
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Memory.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Memory.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.Main.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.exe
+C:\Users\usuario\Documents\Universidad\2023-1\Bases de Datos ll\Proyecto Final Bases 2\visual\obj\Debug\Streaming.pdb
+C:\Users\juans\source\repos\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\juans\source\repos\Streaming\bin\Debug\Streaming.exe
+C:\Users\juans\source\repos\Streaming\bin\Debug\Streaming.pdb
+C:\Users\juans\source\repos\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Memory.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Text.Json.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.ValueTuple.dll
+C:\Users\juans\source\repos\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Memory.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Text.Json.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juans\source\repos\Streaming\bin\Debug\System.ValueTuple.xml
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.Main.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.exe
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.pdb
+C:\Users\juans\source\repos\Streaming\obj\Debug\Streaming.feedback.Recomendaciones.resources
+D:\GitHub\Streaming\obj\Debug\Streaming.feedback.Recomendaciones.resources
+C:\Users\Usuario\Documents\GitHub\Streaming\CamiloR293\Streaming\obj\Debug\Streaming.feedback.Recomendaciones.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.ActualizarActoresPelicula.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.ActualizarDatosCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.AgregarActoresPelicula.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.AgregarTarjeta.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.DatosPersonalesCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.DatosPersonalesEmpleado.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.EliminarActoresPelicula.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.InicioCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.InicioEmpleado.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.MainEmpleado.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.Main.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.MenuPrincipalCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.PlanSuscripcionCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.Recomendaciones.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.feedback.VerTarjetasCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.RegistrarProductoEmpleado.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.RegistroCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.VerPeliculaCliente.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.ViendoPelicula.resources
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.exe
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.pdb
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Streaming.exe
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Streaming.pdb
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Source\Repos\CamiloR293\Project_Lab_Bases\Streaming\obj\Debug\Streaming.csproj.CopyComplete
