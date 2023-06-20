@@ -97,175 +97,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="connection\Datos.cs" />
-    <Compile Include="feedback\ActualizarActoresPelicula.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\ActualizarActoresPelicula.Designer.cs">
-      <DependentUpon>ActualizarActoresPelicula.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\ActualizarDatosCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\ActualizarDatosCliente.Designer.cs">
-      <DependentUpon>ActualizarDatosCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\AgregarActoresPelicula.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\AgregarActoresPelicula.Designer.cs">
-      <DependentUpon>AgregarActoresPelicula.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\AgregarTarjeta.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\AgregarTarjeta.Designer.cs">
-      <DependentUpon>AgregarTarjeta.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\DatosPersonalesCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\DatosPersonalesCliente.Designer.cs">
-      <DependentUpon>DatosPersonalesCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\DatosPersonalesEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\DatosPersonalesEmpleado.Designer.cs">
-      <DependentUpon>DatosPersonalesEmpleado.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\EliminarActoresPelicula.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\EliminarActoresPelicula.Designer.cs">
-      <DependentUpon>EliminarActoresPelicula.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\InicioCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\InicioCliente.Designer.cs">
-      <DependentUpon>InicioCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\InicioEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\InicioEmpleado.Designer.cs">
-      <DependentUpon>InicioEmpleado.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\MainEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\MainEmpleado.Designer.cs">
-      <DependentUpon>MainEmpleado.cs</DependentUpon>
-    </Compile>
     <Compile Include="feedback\Main.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="feedback\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
-    <Compile Include="feedback\MenuPrincipalCliente.cs">
+    <Compile Include="feedback\Visualizacion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="feedback\MenuPrincipalCliente.Designer.cs">
-      <DependentUpon>MenuPrincipalCliente.cs</DependentUpon>
+    <Compile Include="feedback\Visualizacion.Designer.cs">
+      <DependentUpon>Visualizacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="feedback\PlanSuscripcionCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\PlanSuscripcionCliente.Designer.cs">
-      <DependentUpon>PlanSuscripcionCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\Recomendaciones.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\Recomendaciones.Designer.cs">
-      <DependentUpon>Recomendaciones.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\VerTarjetasCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\VerTarjetasCliente.Designer.cs">
-      <DependentUpon>VerTarjetasCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="logica\actor.cs" />
-    <Compile Include="logica\administrador.cs" />
-    <Compile Include="logica\clienteProducto.cs" />
-    <Compile Include="logica\cliente_plan.cs" />
-    <Compile Include="logica\Cliente.cs" />
-    <Compile Include="logica\planSuscripcion.cs" />
-    <Compile Include="logica\producto.cs" />
-    <Compile Include="logica\tarjeta.cs" />
-    <Compile Include="logica\VistaCliente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="feedback\RegistrarProductoEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\RegistrarProductoEmpleado.Designer.cs">
-      <DependentUpon>RegistrarProductoEmpleado.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\RegistroCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\RegistroCliente.Designer.cs">
-      <DependentUpon>RegistroCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\VerPeliculaCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\VerPeliculaCliente.Designer.cs">
-      <DependentUpon>VerPeliculaCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="feedback\ViendoPelicula.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="feedback\ViendoPelicula.Designer.cs">
-      <DependentUpon>ViendoPelicula.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="feedback\ActualizarActoresPelicula.resx">
-      <DependentUpon>ActualizarActoresPelicula.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\ActualizarDatosCliente.resx">
-      <DependentUpon>ActualizarDatosCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\AgregarActoresPelicula.resx">
-      <DependentUpon>AgregarActoresPelicula.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\AgregarTarjeta.resx">
-      <DependentUpon>AgregarTarjeta.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\DatosPersonalesCliente.resx">
-      <DependentUpon>DatosPersonalesCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\DatosPersonalesEmpleado.resx">
-      <DependentUpon>DatosPersonalesEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\EliminarActoresPelicula.resx">
-      <DependentUpon>EliminarActoresPelicula.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\InicioCliente.resx">
-      <DependentUpon>InicioCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\InicioEmpleado.resx">
-      <DependentUpon>InicioEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\MainEmpleado.resx">
-      <DependentUpon>MainEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="feedback\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="feedback\MenuPrincipalCliente.resx">
-      <DependentUpon>MenuPrincipalCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\PlanSuscripcionCliente.resx">
-      <DependentUpon>PlanSuscripcionCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\Recomendaciones.resx">
-      <DependentUpon>Recomendaciones.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\VerTarjetasCliente.resx">
-      <DependentUpon>VerTarjetasCliente.cs</DependentUpon>
+    <EmbeddedResource Include="feedback\Visualizacion.resx">
+      <DependentUpon>Visualizacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -277,18 +127,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="feedback\RegistrarProductoEmpleado.resx">
-      <DependentUpon>RegistrarProductoEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\RegistroCliente.resx">
-      <DependentUpon>RegistroCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\VerPeliculaCliente.resx">
-      <DependentUpon>VerPeliculaCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="feedback\ViendoPelicula.resx">
-      <DependentUpon>ViendoPelicula.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -377,6 +215,9 @@
     <Content Include="Resources\La La Land.png" />
     <Content Include="Resources\Pulp Fiction.png" />
     <Content Include="Resources\Roma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="logica\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />

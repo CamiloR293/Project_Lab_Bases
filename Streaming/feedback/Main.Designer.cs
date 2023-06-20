@@ -30,13 +30,7 @@
         {
             this.pnlDesktop = new System.Windows.Forms.Panel();
             this.pnlMenu = new System.Windows.Forms.Panel();
-            this.txtPassword = new System.Windows.Forms.TextBox();
-            this.txtUserName = new System.Windows.Forms.TextBox();
-            this.lblEmployeeAccount = new System.Windows.Forms.Label();
-            this.lblRegister = new System.Windows.Forms.Label();
             this.btnIngresar = new System.Windows.Forms.Button();
-            this.picBoxPassword = new System.Windows.Forms.PictureBox();
-            this.picBoxUserName = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.lblInicioSesion = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
@@ -45,8 +39,6 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnlDesktop.SuspendLayout();
             this.pnlMenu.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxPassword)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxUserName)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -72,76 +64,13 @@
             // pnlMenu
             // 
             this.pnlMenu.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pnlMenu.Controls.Add(this.txtPassword);
-            this.pnlMenu.Controls.Add(this.txtUserName);
-            this.pnlMenu.Controls.Add(this.lblEmployeeAccount);
-            this.pnlMenu.Controls.Add(this.lblRegister);
             this.pnlMenu.Controls.Add(this.btnIngresar);
-            this.pnlMenu.Controls.Add(this.picBoxPassword);
-            this.pnlMenu.Controls.Add(this.picBoxUserName);
             this.pnlMenu.Controls.Add(this.pictureBox5);
             this.pnlMenu.Controls.Add(this.lblInicioSesion);
             this.pnlMenu.Location = new System.Drawing.Point(180, 116);
             this.pnlMenu.Name = "pnlMenu";
             this.pnlMenu.Size = new System.Drawing.Size(444, 361);
             this.pnlMenu.TabIndex = 4;
-            // 
-            // txtPassword
-            // 
-            this.txtPassword.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txtPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(216)))), ((int)(((byte)(216)))));
-            this.txtPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPassword.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.txtPassword.Location = new System.Drawing.Point(33, 141);
-            this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(376, 16);
-            this.txtPassword.TabIndex = 8;
-            this.txtPassword.Text = "Contraseña";
-            this.txtPassword.Click += new System.EventHandler(this.txtPassword_Click);
-            this.txtPassword.Leave += new System.EventHandler(this.txtPassword_Leave);
-            // 
-            // txtUserName
-            // 
-            this.txtUserName.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txtUserName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(216)))), ((int)(((byte)(216)))));
-            this.txtUserName.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUserName.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.txtUserName.Location = new System.Drawing.Point(33, 87);
-            this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(376, 16);
-            this.txtUserName.TabIndex = 7;
-            this.txtUserName.Text = "Correo o nombre de usuario";
-            this.txtUserName.Click += new System.EventHandler(this.txtUserName_Click);
-            this.txtUserName.Leave += new System.EventHandler(this.txtUserName_Leave);
-            // 
-            // lblEmployeeAccount
-            // 
-            this.lblEmployeeAccount.AutoSize = true;
-            this.lblEmployeeAccount.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmployeeAccount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(144)))), ((int)(((byte)(77)))));
-            this.lblEmployeeAccount.Location = new System.Drawing.Point(264, 333);
-            this.lblEmployeeAccount.Name = "lblEmployeeAccount";
-            this.lblEmployeeAccount.Size = new System.Drawing.Size(177, 13);
-            this.lblEmployeeAccount.TabIndex = 6;
-            this.lblEmployeeAccount.Text = "Entrar con una cuenta de empleado";
-            this.lblEmployeeAccount.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblEmployeeAccount.Click += new System.EventHandler(this.lblEmployeeAccount_Click);
-            // 
-            // lblRegister
-            // 
-            this.lblRegister.AutoSize = true;
-            this.lblRegister.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lblRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegister.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(144)))), ((int)(((byte)(77)))));
-            this.lblRegister.Location = new System.Drawing.Point(4, 333);
-            this.lblRegister.Name = "lblRegister";
-            this.lblRegister.Size = new System.Drawing.Size(184, 13);
-            this.lblRegister.TabIndex = 5;
-            this.lblRegister.Text = "No tienes una cuenta? registrate aqui";
-            this.lblRegister.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblRegister.Click += new System.EventHandler(this.lblRegister_Click);
             // 
             // btnIngresar
             // 
@@ -161,26 +90,6 @@
             this.btnIngresar.UseVisualStyleBackColor = false;
             this.btnIngresar.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
-            // picBoxPassword
-            // 
-            this.picBoxPassword.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.picBoxPassword.Image = global::Streaming.Properties.Resources.square2;
-            this.picBoxPassword.Location = new System.Drawing.Point(19, 129);
-            this.picBoxPassword.Name = "picBoxPassword";
-            this.picBoxPassword.Size = new System.Drawing.Size(400, 38);
-            this.picBoxPassword.TabIndex = 3;
-            this.picBoxPassword.TabStop = false;
-            // 
-            // picBoxUserName
-            // 
-            this.picBoxUserName.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.picBoxUserName.Image = global::Streaming.Properties.Resources.square2;
-            this.picBoxUserName.Location = new System.Drawing.Point(19, 76);
-            this.picBoxUserName.Name = "picBoxUserName";
-            this.picBoxUserName.Size = new System.Drawing.Size(400, 38);
-            this.picBoxUserName.TabIndex = 2;
-            this.picBoxUserName.TabStop = false;
-            // 
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Streaming.Properties.Resources.square1;
@@ -198,9 +107,10 @@
             this.lblInicioSesion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(144)))), ((int)(((byte)(77)))));
             this.lblInicioSesion.Location = new System.Drawing.Point(12, 12);
             this.lblInicioSesion.Name = "lblInicioSesion";
-            this.lblInicioSesion.Size = new System.Drawing.Size(252, 37);
+            this.lblInicioSesion.Size = new System.Drawing.Size(159, 37);
             this.lblInicioSesion.TabIndex = 0;
-            this.lblInicioSesion.Text = "Inicio de sesion";
+            this.lblInicioSesion.Text = "Conexion";
+            this.lblInicioSesion.Click += new System.EventHandler(this.lblInicioSesion_Click);
             // 
             // pictureBox4
             // 
@@ -254,8 +164,6 @@
             this.pnlDesktop.ResumeLayout(false);
             this.pnlMenu.ResumeLayout(false);
             this.pnlMenu.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxPassword)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxUserName)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
@@ -275,13 +183,7 @@
         private System.Windows.Forms.Panel pnlMenu;
         private System.Windows.Forms.Label lblInicioSesion;
         private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox picBoxUserName;
         private System.Windows.Forms.Button btnIngresar;
-        private System.Windows.Forms.PictureBox picBoxPassword;
-        private System.Windows.Forms.Label lblEmployeeAccount;
-        private System.Windows.Forms.Label lblRegister;
-        private System.Windows.Forms.TextBox txtUserName;
-        private System.Windows.Forms.TextBox txtPassword;
     }
 }
 
